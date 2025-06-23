@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/b991e89a11284b4aa73a273089816d94/artifacts
+end_time: 1750664487149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b991e89a11284b4aa73a273089816d94
+run_name: intelligent-ape-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750664483335
+status: 4
+tags: []
+user_id: ADMIN

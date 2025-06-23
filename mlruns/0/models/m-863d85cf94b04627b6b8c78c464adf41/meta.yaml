@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/models/m-863d85cf94b04627b6b8c78c464adf41/artifacts
+creation_timestamp: 1750664102170
+experiment_id: '0'
+last_updated_timestamp: 1750664143503
+model_id: m-863d85cf94b04627b6b8c78c464adf41
+model_type: ''
+name: random_forest_model
+source_run_id: 9beea318cbc64ea9b937de8efd341411
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/264b656509be4b6a8a4baca866c657ed/artifacts
+end_time: 1750663598217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 264b656509be4b6a8a4baca866c657ed
+run_name: zealous-bass-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750663595346
+status: 4
+tags: []
+user_id: ADMIN

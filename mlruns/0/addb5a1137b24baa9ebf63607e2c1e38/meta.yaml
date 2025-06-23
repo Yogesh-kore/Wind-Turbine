@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/addb5a1137b24baa9ebf63607e2c1e38/artifacts
+end_time: 1750664042013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: addb5a1137b24baa9ebf63607e2c1e38
+run_name: unruly-owl-530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750664035950
+status: 4
+tags: []
+user_id: ADMIN

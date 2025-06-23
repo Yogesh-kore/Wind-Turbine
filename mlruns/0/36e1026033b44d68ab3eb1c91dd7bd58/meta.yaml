@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/36e1026033b44d68ab3eb1c91dd7bd58/artifacts
+end_time: 1750664807455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36e1026033b44d68ab3eb1c91dd7bd58
+run_name: welcoming-fish-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750664790201
+status: 3
+tags: []
+user_id: ADMIN

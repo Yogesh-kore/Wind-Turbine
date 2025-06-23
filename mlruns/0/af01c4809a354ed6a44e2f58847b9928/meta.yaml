@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/af01c4809a354ed6a44e2f58847b9928/artifacts
+end_time: 1750665964546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af01c4809a354ed6a44e2f58847b9928
+run_name: wise-sow-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750665910692
+status: 3
+tags: []
+user_id: ADMIN

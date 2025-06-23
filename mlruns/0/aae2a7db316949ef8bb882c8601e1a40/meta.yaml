@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/aae2a7db316949ef8bb882c8601e1a40/artifacts
+end_time: 1750662859857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aae2a7db316949ef8bb882c8601e1a40
+run_name: skillful-donkey-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750662856957
+status: 4
+tags: []
+user_id: ADMIN

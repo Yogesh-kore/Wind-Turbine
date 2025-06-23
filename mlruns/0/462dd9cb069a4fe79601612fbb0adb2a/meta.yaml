@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/462dd9cb069a4fe79601612fbb0adb2a/artifacts
+end_time: 1750667925019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 462dd9cb069a4fe79601612fbb0adb2a
+run_name: glamorous-horse-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750667903457
+status: 3
+tags: []
+user_id: ADMIN

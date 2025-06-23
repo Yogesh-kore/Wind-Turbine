@@ -1,0 +1,18 @@
+# Core ML and data processing
+pandas
+numpy
+scikit-learn
+xgboost
+
+# MongoDB client
+pymongo
+
+# MLflow for tracking
+mlflow
+
+# Optional: For visualizations or future extensions
+matplotlib
+seaborn
+
+# GitHub Actions / Docker might use this for static type checking or linting (optional)
+flake8

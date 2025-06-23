@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/db8755198b9e469ea28b67d33dc0f5de/artifacts
+end_time: 1750664607429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db8755198b9e469ea28b67d33dc0f5de
+run_name: dashing-trout-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750664524850
+status: 3
+tags: []
+user_id: ADMIN
