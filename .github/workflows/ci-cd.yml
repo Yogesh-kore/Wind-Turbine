@@ -41,3 +41,8 @@ jobs:
           git add requirements.txt
           git diff --cached --quiet || git commit -m "Update requirements.txt from CI pipeline"
           git push
+
+      - name: Start MLflow Tracking Server
+         run: |
+           nohup mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./mlruns --host 127.0.0.1 --port 5000 &
+           sleep 10  # Give MLflow some time to start
