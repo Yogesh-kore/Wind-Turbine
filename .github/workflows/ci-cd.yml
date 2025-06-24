@@ -24,6 +24,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Start MLflow Tracking Server
+        run: mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./mlruns --host 127.0.0.1 --port 5000 &
+
+      - name: Wait for MLflow server
+        run: sleep 10
+
       - name:  Run training script
         run: |
           python -m src.train
@@ -53,9 +59,3 @@ jobs:
           git add requirements.txt
           git diff --cached --quiet || git commit -m "Update requirements.txt from CI pipeline"
           git push
-
-      - name: Start MLflow Tracking Server
-        run: mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./mlruns --host 127.0.0.1 --port 5000 &
-
-      - name: Wait for MLflow server
-        run: sleep 10
