@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/models/m-75e961d1f0cf4234b6674bcbeb768e92/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.0
+model_id: m-75e961d1f0cf4234b6674bcbeb768e92
+model_size_bytes: 2787606
+model_uuid: m-75e961d1f0cf4234b6674bcbeb768e92
+prompts: null
+run_id: 07f69e1314c04c86a74b1e10f0032bf3
+utc_time_created: '2025-06-24 05:40:39.432750'

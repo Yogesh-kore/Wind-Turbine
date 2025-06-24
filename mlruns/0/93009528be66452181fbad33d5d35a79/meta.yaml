@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/93009528be66452181fbad33d5d35a79/artifacts
+end_time: 1750743829001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93009528be66452181fbad33d5d35a79
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750743809501
+status: 3
+tags: []
+user_id: ADMIN

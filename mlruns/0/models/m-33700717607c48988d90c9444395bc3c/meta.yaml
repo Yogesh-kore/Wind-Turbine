@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/models/m-33700717607c48988d90c9444395bc3c/artifacts
+creation_timestamp: 1750743813682
+experiment_id: '0'
+last_updated_timestamp: 1750743828953
+model_id: m-33700717607c48988d90c9444395bc3c
+model_type: null
+name: XGBoost
+source_run_id: 93009528be66452181fbad33d5d35a79
+status: 2
+status_message: null

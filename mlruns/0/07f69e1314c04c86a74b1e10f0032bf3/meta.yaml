@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/07f69e1314c04c86a74b1e10f0032bf3/artifacts
+end_time: 1750743663338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07f69e1314c04c86a74b1e10f0032bf3
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750743637614
+status: 3
+tags: []
+user_id: ADMIN

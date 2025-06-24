@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/99b52ecea222450ca6ed077c4c40c9e2/artifacts
+end_time: 1750743713271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99b52ecea222450ca6ed077c4c40c9e2
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750743686860
+status: 3
+tags: []
+user_id: ADMIN

@@ -64,7 +64,9 @@ def evaluate_model(model, model_name="Model"):
 if __name__ == "__main__":
     # List of models to evaluate: only local files now
     models_to_evaluate = [
-        {"name": "RandomForest_Local", "type": "local", "path": "models/random_forest.pkl"},
+        {"name": "RandomForest", "type": "local", "path": "models/randomforest.pkl"},
+        {"name": "XGBoost", "type": "local", "path": "models/xgboost.pkl"},
+        {"name": "LinearRegression", "type": "local", "path": "models/linearregression.pkl"},
     ]
 
     for model_info in models_to_evaluate:

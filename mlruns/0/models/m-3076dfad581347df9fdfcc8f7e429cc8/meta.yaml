@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ADMIN/Desktop/windturbine-mlflow/mlruns/0/models/m-3076dfad581347df9fdfcc8f7e429cc8/artifacts
+creation_timestamp: 1750743829671
+experiment_id: '0'
+last_updated_timestamp: 1750743872303
+model_id: m-3076dfad581347df9fdfcc8f7e429cc8
+model_type: null
+name: LinearRegression
+source_run_id: e61f18ff0f5d45008811ef9eaf82253a
+status: 2
+status_message: null
