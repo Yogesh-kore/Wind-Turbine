@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Core ML and data processing
 pandas
 numpy
@@ -17,23 +16,3 @@ seaborn
 
 # GitHub Actions / Docker might use this for static type checking or linting (optional)
 flake8
-=======
-# Core ML and data processing
-pandas
-numpy
-scikit-learn
-xgboost
-
-# MongoDB client
-pymongo
-
-# MLflow for tracking
-mlflow
-
-# Optional: For visualizations or future extensions
-matplotlib
-seaborn
-
-# GitHub Actions / Docker might use this for static type checking or linting (optional)
-flake8
->>>>>>> eb8c949 (Save local changes before pull)
